@@ -1,20 +1,15 @@
+## Hi, I'm Elica Liu 👨‍💻‍
 
-- 我的掘金主页：https://juejin.cn/user/444664871131214
+<img src="https://github-readme-stats.vercel.app/api?username=ElicaKing&show_icons=true&theme=radical&count_private=true&show_icons=true&include_all_commits=true" />
 
+I'm working in AKD, living in Shenzhen.
 
-<!--
-**stick-i/stick-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## This is me
 
-Here are some ideas to get you started:
+- 擅长 .NET Core 技术栈，推崇 .NET Core。
 
-### Hi there 👋
+- 喜欢有意思、有挑战的工作，共同探索不一样的解决方案。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 喜欢和简单的人一起工作，我们只有一个目标 —— 把产品做得更好。
+
+- "用自己的一点点努力去改变世界" 是我的梦想 ~~
