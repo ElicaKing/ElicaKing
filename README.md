@@ -13,3 +13,7 @@ I'm working in AKD🚓, living in Shenzhen.
 - 喜欢和简单的人一起工作，我们只有一个目标 —— 把产品做得更好。
 
 - 业余写文章，你也喜欢的话，可以来看看，公众号：桑小榆呀
+
+## 业余
+
+平时空闲时间会写写文章，包含技术、职场、人生感悟，如果你也敢兴趣可以关注我公众号：[桑小榆呀]([https://modernjs.dev/](https://mp.weixin.qq.com/s/aJ2o0vnhlho3H4EILLjWwg)https://mp.weixin.qq.com/s/aJ2o0vnhlho3H4EILLjWwg/) !
