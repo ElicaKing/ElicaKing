@@ -16,4 +16,4 @@ I'm working in AKD🚓, living in Shenzhen.
 
 ## 业余
 
-平时空闲时间会写写文章，包含技术、职场、人生感悟，如果你也敢兴趣可以关注我公众号：[桑小榆呀]([https://modernjs.dev/](https://mp.weixin.qq.com/s/aJ2o0vnhlho3H4EILLjWwg)https://mp.weixin.qq.com/s/aJ2o0vnhlho3H4EILLjWwg/) !
+平时空闲时间会写写文章，包含技术、职场、人生感悟，如果你也敢兴趣可以关注我公众号：[桑小榆呀](https://mp.weixin.qq.com/s/aJ2o0vnhlho3H4EILLjWwg) !
