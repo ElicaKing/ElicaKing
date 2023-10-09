@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ElicaKing&show_icons=true&theme=radical&count_private=true&show_icons=true&include_all_commits=true" />
 
-I'm working in AKD, living in Shenzhen.
+I'm working in AKD🚓, living in Shenzhen.
 
 ## This is me
 
@@ -12,4 +12,4 @@ I'm working in AKD, living in Shenzhen.
 
 - 喜欢和简单的人一起工作，我们只有一个目标 —— 把产品做得更好。
 
-- "用自己的一点点努力去改变世界" 是我的梦想 ~~
+- 业余写文章，你也喜欢的话，可以来看看，公众号：桑小榆呀
