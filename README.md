@@ -14,6 +14,6 @@ I'm working in AKD🚓, living in Shenzhen.
 
 - 业余写文章，你也喜欢的话，可以来看看，公众号：桑小榆呀
 
-## 业余
+## Sparetime
 
 平时空闲时间会写写文章，包含技术、职场、人生感悟，如果你也敢兴趣可以关注我公众号：[桑小榆呀](https://mp.weixin.qq.com/s/aJ2o0vnhlho3H4EILLjWwg) !
